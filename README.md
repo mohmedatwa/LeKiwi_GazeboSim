@@ -29,8 +29,8 @@ source install/setup.bash
 
 ```
 LeKiwi_ROS/
-├── lekiwi_controller/     # Arm controller package
-├── lekiwi_description/    # Robot description (URDF, meshes)
+├── lekiwi_controller/     
+├── lekiwi_description/    
 ├── LICENSE
 └── README.md
 ```
